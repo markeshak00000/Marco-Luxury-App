@@ -1,0 +1,14 @@
+node_modules/
+android/
+ios/
+dist/
+www/build/
+.DS_Store
+.env
+*.log
+.capacitor/
+coverage/
+.vscode/
+.idea/
+*.apk
+*.aab
